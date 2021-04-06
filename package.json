@@ -1,0 +1,17 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "author": "taoistwar",
+  "description": "My Electron Demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^12.0.2",
+    "electron-builder": "^22.10.5"
+  },
+  "dependencies": {
+    "source-map-support": "^0.5.19"
+  }
+}
